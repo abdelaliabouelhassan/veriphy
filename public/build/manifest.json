@@ -8,19 +8,19 @@
     "src": "public/fonts/Garet-Heavy.otf"
   },
   "resources/css/app.css": {
-    "file": "assets/app-b78afdbb.css",
+    "file": "assets/app-97b17e4a.css",
     "isEntry": true,
     "src": "resources/css/app.css"
   },
   "resources/js/app.css": {
-    "file": "assets/app-83cb9ba9.css",
+    "file": "assets/app-e258e15c.css",
     "src": "resources/js/app.css"
   },
   "resources/js/app.js": {
     "css": [
-      "assets/app-83cb9ba9.css"
+      "assets/app-e258e15c.css"
     ],
-    "file": "assets/app-5e263e62.js",
+    "file": "assets/app-237f8b37.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   }
