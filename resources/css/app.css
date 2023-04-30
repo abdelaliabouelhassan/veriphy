@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+    @font-face {
+        font-family: "Garet";
+        src: url("/public/fonts/Garet-Book.otf");
+    }
+    @font-face {
+        font-family: "Garet-Heavy";
+        src: url("/public/fonts/Garet-Heavy.otf");
+    }
+}
+
+body{
+    @apply text-body-text-color;
+}
+
+/* this class respsible for giving the min hight of what's remaining of screen hight under the nav bar */
+.fill_screen_hight{
+    min-height: calc(100vh - 5rem);
+}
+/* sm */
+@media (min-width:40rem) {
+    .fill_screen_hight{
+        min-height: calc(100vh - 6rem);
+    }
+}
+
+
