@@ -9,15 +9,15 @@
         <div class="flex flex-col items-center justify-center gap-y-6  py-6
                     md:flex-row  md:flex-wrap  md:gap-16 ">
             <!-- Clients section item -->
-            <img class="w-80 " src="/images/clients/midland_client.png" alt="midland_client">
+            <img class="w-80 px-10 " src="/images/clients/midland_client.png" alt="midland_client">
             <!-- Clients section item -->
-            <img class="w-80 " src="/images/clients/karan_beef_client.png" alt="karan_beef_client">
+            <img class="w-80 px-10 " src="/images/clients/karan_beef_client.png" alt="karan_beef_client">
             <!-- Clients section item -->
-            <img class="w-80 " src="/images/clients/sparta_client.png" alt="sparta_client">
+            <img class="w-80 px-10 " src="/images/clients/sparta_client.png" alt="sparta_client">
             <!-- Clients section item -->
-            <img class="w-80 " src="/images/clients/beef_master_client.png" alt="beef_master_client">
+            <img class="w-80 px-10 " src="/images/clients/beef_master_client.png" alt="beef_master_client">
             <!-- Clients section item -->
-            <img class="w-80 " src="/images/clients/morgan_beef_client.png" alt="morgan_beef_client">
+            <img class="w-80 px-10 " src="/images/clients/morgan_beef_client.png" alt="morgan_beef_client">
 
         </div>
     </section>
