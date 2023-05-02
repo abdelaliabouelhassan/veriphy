@@ -30,6 +30,7 @@
 
 ## Setup Project on Server Production
 
+- before you start you need to setup it first locally
 - open the project in your terminal
 - cd to the project directory
 - cd to core directory. `cd core`
