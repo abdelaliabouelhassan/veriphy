@@ -2,7 +2,7 @@
   <DefaultLayout>
     <section class="bg-no-repeat bg-cover md:bg-center  w-screen fill_screen_hight overflow-hidden relative">
         <img src="/images/hero_section_background.png" alt="" 
-        class="w-full h-full md:h-screen object-bottom absolute">
+        class="w-full h-full md:h-screen object-cover 2xl:object-top absolute">
         <div class="  px-4 w-full container mx-auto">
           <div class="absolute top-24">
               <h1 class="font-Garet-Heavy font-extrabold text-4xl mt-2 max-w-xs

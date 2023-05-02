@@ -8,7 +8,7 @@
     "src": "public/fonts/Garet-Heavy.otf"
   },
   "resources/css/app.css": {
-    "file": "assets/app-97b17e4a.css",
+    "file": "assets/app-783cb470.css",
     "isEntry": true,
     "src": "resources/css/app.css"
   },
@@ -20,7 +20,7 @@
     "css": [
       "assets/app-e258e15c.css"
     ],
-    "file": "assets/app-237f8b37.js",
+    "file": "assets/app-0044b7e1.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   }
