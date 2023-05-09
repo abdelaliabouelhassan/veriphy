@@ -21,9 +21,6 @@
 - run `composer install`
 - npm install
 - npm run dev
-- you will need to create a database in your mysql server
-- setup your database in .env file in the core directory, change the DB_DATABASE & DB_USERNAME & DB_PASSWORD
-- run `php artisan migrate`
 - run `php artisan serve`
 - open the project in your browser
 - setup mailing service in .env file in the core directory, change the MAIL_MAILER & MAIL_HOST & MAIL_PORT & MAIL_USERNAME & MAIL_PASSWORD & MAIL_ENCRYPTION & EMAIL_TO
@@ -40,8 +37,7 @@
 - zip the entire project
 - upload the zip file to your server
 - unzip the file
-- open .env file in the core directory
-- setup database in .env file, change the DB_DATABASE & DB_USERNAME & DB_PASSWORD
+
 
 ## tips 
 - every time you make changes to the project you will need to run `npm run build` not in the server but in your local machine and then upload the build directory to the server
